@@ -1,3 +1,2 @@
-Implementação e execução do problema do Produtor-Consumidor em Java, utilizando threads e um buffer compartilhado.
-
-A atividade foi executada no IntelliJ IDEA, com a saída da execução registrada em execucao-produtor-consumidor.png.
+# Atividade 2
+Evidenciar a execução do programa Produtor-Consumidor em Java anexo aos Recursos. Fazer print da execução do programa com o nome do aluno. Postar na pasta atividade-02 do seu GitHub. Copiar o link do repositório/atividade-02 no Google Classroom.
